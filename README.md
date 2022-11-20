@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @TageAQ
+- 👀 I’m interested in LUA...
+- 🌱 I’m currently learning More about LUA and QBCore...
+- 📫 How to reach me Discord: Tage#0001...
+
+<!---
+TageAQ/TageAQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
